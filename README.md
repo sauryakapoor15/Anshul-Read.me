@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=tech-with-anshul&label=Profile+Views&color=brightgreen&style=flat-square" />
   <img src="https://img.shields.io/github/followers/tech-with-anshul?label=Followers&style=flat-square&logo=github" />
   <img src="https://img.shields.io/github/stars/tech-with-anshul?style=flat-square&logo=github&label=Stars" />
-  <img src= "https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" href = "https://github.com/sponsors/aksr-aashish">
+  <a href="https://github.com/sponsors/tech-with-anshul" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Badge"/>
+</a>
 </p>
 
 
