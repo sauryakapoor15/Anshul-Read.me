@@ -94,7 +94,7 @@
 ---
 ### 🌐 Let's Connect
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sauryakapoor15) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sauryakapoor15) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saurya11253v)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![FaceBook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/saury.kapoor)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Saurya11253v)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
