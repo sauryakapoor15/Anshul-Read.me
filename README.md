@@ -59,9 +59,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tech-with-anshul&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true"/>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=tech-with-anshul&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF"/>
+| <img src="https://github-readme-stats.vercel.app/api?username=tech-with-anshul&show_icons=true&title_color=00AEDDFF&text_color=FCFCFC&icon_color=00AEDDFF&bg_color=151515&border_color=FCFCFC&border_radius=8&include_all_commits=true&count_private=true" height="180" width="400" /> | <img src="http://github-readme-streak-stats.herokuapp.com?user=tech-with-anshul&background=151515&currStreakNum=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=00AEDD&fire=00AEDD&sideNums=FFFFFF&currStreakLabel=00AEDD&sideLabels=FFFFFF&dates=FFFFFF" height="320" width="420"/> |
+|:--:|:--:|
+
+    
+    
 </p>
  
 
@@ -73,7 +75,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tech-with-anshul&theme=react-dark&area=true&hide_border=true" />
 </p>
 
+
+## 🔥 Language Usage 
+
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-with-anshul&theme=dark&hide_border=false&layout=compact" height="180" width="400"> | <img src="https://github-contributor-stats.vercel.app/api?username=tech-with-anshul&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"> |
+|:--:|:--:|
+
 ---
+
 
 ### 🚀 Projects in Progress
 
