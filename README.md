@@ -1,8 +1,8 @@
 <!-- Profile Typing Animation -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Anshul+from+India!;🌐+AI+%7C+IoT+%7C+Web+Development+Explorer;🚀+Java+%7C+Python+%7C+Open+Source+Contributor">
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="100" height="50" style="display: inline-block; vertical-align: left;" alt="Gif Image" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Anshul+from+India!;🌐+AI+%7C+IoT+%7C+Web+Development+Explorer;🚀+Java+%7C+Python+%7C+Open+Source+Contributor"/>
+</h1>
 
 <p align="center">
   <img src="Resources/ban.png" width="100%" />
