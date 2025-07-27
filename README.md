@@ -17,6 +17,9 @@
   <a href="https://github.com/sponsors/tech-with-anshul" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Badge"/>
 </a>
+  <a href="https://github.com/tech-with-anshul">
+    <img src="https://badges.strrl.dev/commits/monthly/tech-with-anshul?style=flat-square&color=black&logo=github">
+  </a>
 </p>
 
 
