@@ -263,6 +263,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=tech-with-anshul&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
 </div>
 
+ <!--machine-learning-->
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
 ---
 
 ### 📈 GitHub Stats
