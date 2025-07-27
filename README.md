@@ -43,6 +43,210 @@
 
 ---
 
+<div align="center">
+  <h2>🔮 SKILL MATRIX</h2>
+  
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <!-- First Row -->
+    <div align="center">
+      <table>
+        <tr>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+            </a>
+            <br>JavaScript
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+            </a>
+            <br>TypeScript
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+            </a>
+            <br>Python
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+            </a>
+            <br>Java
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+            </a>
+            <br>C++
+          </td>
+        </tr>
+        <!-- Second Row -->
+        <tr>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+            </a>
+            <br>React
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+            </a>
+            <br>Redux
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+            </a>
+            <br>Node.js
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="65" height="65" />
+            </a>
+            <br>Webpack
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+            </a>
+            <br>MySQL
+          </td>
+        </tr>
+        <!-- Third Row -->
+        <tr>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+            </a>
+            <br>AWS
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            </a>
+            <br>Docker
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+            </a>
+            <br>GitHub
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+            </a>
+            <br>MongoDB
+          </td>
+          <td align="center" width="100">
+            <a href="#">
+              <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+            </a>
+            <br>Nginx
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div align="center">
+  <h2>🔮 SKILL MATRIX</h2>
+
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <div align="center">
+      <table>
+        <!-- Row 1 -->
+        <tr>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /><br>Java
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>JavaScript
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" /><br>HTML
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" /><br>CSS
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>React
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" /><br>Node.js
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="65" height="65" /><br>Express
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" /><br>MongoDB
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br>MySQL
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/arduino-icon.svg" alt="Arduino" width="65" height="65" /><br>Arduino
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="65" height="65" /><br>Bootstrap
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind" width="65" height="65" /><br>Tailwind
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="65" height="65" /><br>Angular
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" /><br>Git
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>GitHub
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/flask-icon.svg" alt="Flask" width="65" height="65" /><br>Flask
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /><br>Django
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65" /><br>Firebase
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" /><br>TensorFlow
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/pytorch-icon.svg" alt="PyTorch" width="65" height="65" /><br>PyTorch
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/seaborn-icon.svg" alt="Seaborn" width="65" height="65" /><br>Seaborn
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="Pandas" width="65" height="65" /><br>Pandas
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/opencv-icon.svg" alt="OpenCV" width="65" height="65" /><br>OpenCV
+          </td>
+          <td align="center" width="100">
+            <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65" /><br>VS Code
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
+
+
 ### 🧰 Languages & Tools
 
 <p align="center">
