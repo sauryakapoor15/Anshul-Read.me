@@ -83,6 +83,18 @@
 
 ---
 
+## 🐍 Classic Old Snake ( Make by me with blobs, dont jugde me)  :
+
+<br>
+
+![snake gif](https://github.com/tech-with-anshul/tech-with-anshul/blob/output/github-snake-dark.svg) 
+
+<br>
+
+![snake gif](https://github.com/tech-with-anshul/tech-with-anshul/blob/output/github-snake.svg) 
+
+<br>
+
 
 ### 🚀 Projects in Progress
 
