@@ -27,7 +27,6 @@
 
 ## 🔥 About Me
 
-<div align="left">
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320" alt="Computer Illustration" style="margin-left: 15px;"/>
   
 - 🏡 **From:** India   
@@ -303,6 +302,9 @@
 ![snake gif](https://github.com/tech-with-anshul/tech-with-anshul/blob/output/github-snake.svg) 
 
 <br>
+
+
+  <img align = "right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm56bXFzb2JlcGlrYnVrNTRiOWluNm5kZDJpMndxcHRuMDUya3NxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 
 ### 🚀 Projects in Progress
