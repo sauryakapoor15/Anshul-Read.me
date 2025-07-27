@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Anshul+from+India!;🌐+AI+%7C+IoT+%7C+Web+Development+Explorer;🚀+Java+%7C+Python+%7C+Open+Source+Contributor">
 </p>
 
+<p align="center">
+  <img src="ban.png" width="100%" />
+</p>
 ---
 
 <h2 align="center">🚀 Passionate Software Developer | Backend Engineer | AI Enthusiast</h2>
