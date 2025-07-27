@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="ban.png" width="100%" />
+  <img src="Resources/ban.png" width="100%" />
 </p>
----
 
 <h2 align="center">🚀 Passionate Software Developer | Backend Engineer | AI Enthusiast</h2>
 
